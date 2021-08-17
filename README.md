@@ -1,6 +1,10 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+> react hook 跟 react-redux的学习示例仓库
+
+
 
 ## Available Scripts
 
